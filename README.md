@@ -1,4 +1,4 @@
-# [BadBank](https://danilocanuto.github.io/BadBank/)
+# [BadBank](https://danilocanuto.github.io/BadBank)
 <file src="index.html"/>
 <img src= "src/assets/images/bank.jpeg" width='300'/>
 
