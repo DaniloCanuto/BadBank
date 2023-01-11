@@ -12,6 +12,7 @@ Open [http://localhost:3000].
 
 Screenshots: 
 
+<img src= "screenshot.png" width='300'/>
 
 
 Technology used: The objective was to create a banking website with React and deploy it to the cloud(Vercel). The site's functionality was put together through the use of Routing, Context, Use State, Hooks, Bootstrap, React Toastify, etc...  
